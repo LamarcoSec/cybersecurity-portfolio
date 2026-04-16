@@ -1,19 +1,22 @@
 # Networking Fundamentals - TryHackMe
 
 ## 🧠 Overview
-This room covers the basics of networking, including IP addressing, protocols, and communication between devices.
+This room introduces the core concepts of networking, including IP addressing, protocols, and communication models.
 
 ## 📚 What I Learned
-- IP addressing fundamentals
-- TCP vs UDP differences
-- OSI Model basics
-- How data travels across networks
+- IP addressing and subnet basics  
+- Differences between TCP and UDP  
+- OSI Model layers and their functions  
+- How data flows across a network  
 
 ## 🛠️ Tools Used
-- Wireshark (basic usage)
+- Wireshark (basic traffic analysis)
+
+## 🧪 Practical Application
+Understanding networking is essential for performing tasks like scanning, enumeration, and analyzing traffic during penetration testing.
 
 ## 💡 Key Takeaways
-Networking knowledge is essential for understanding how attacks and defenses work.
+Networking is the foundation of cybersecurity. Without understanding how systems communicate, it is difficult to identify vulnerabilities.
 
 ## 🚀 My Notes
-This room helped me understand how devices communicate and how protocols function in real scenarios.
+This room strengthened my understanding of how devices communicate and how protocols operate in real-world environments.
