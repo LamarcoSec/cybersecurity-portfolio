@@ -26,6 +26,9 @@ Aspiring Penetration Tester focused on offensive security, practical labs, and r
 - 🎯 SYCP (Solyd Certified Penetration Tester) - In Progress
 - 📚 Solyd Offensive Security Training (In Progress)
 - 🎓 Estácio – Cyber Defense Degree (2nd Semester)
+- 🛡️ Google Cybersecurity Professional Certificate – Google (Coursera)
+- 🛡️ Introduction to Cybersecurity – Cisco Networking Academy
+
 
 ## 🚀 Platforms
 
